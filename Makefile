@@ -6,11 +6,11 @@
 #    By: mde-la-s <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/08/30 18:36:50 by mde-la-s          #+#    #+#              #
-#    Updated: 2021/08/30 18:46:30 by mde-la-s         ###   ########.fr        #
+#    Updated: 2021/09/02 16:41:45 by mde-la-s         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME	=	minitalk
+NAME	=	server
 
 SRCSSER	=	srcs/ft_atoi.c \
 			srcs/ft_itoa.c \
